@@ -1,5 +1,6 @@
 <img src = "giphy.gif" width = "325px" align = "right">
-Olá, bom ter você por aqui! ♥
+
+# Olá, bom ter você por aqui! ♥
 
 - 🌱 Cursando o primeiro semestre em Análise e Desenvolvimento de Sistemas
 - 📚 Conhecimentos em:
